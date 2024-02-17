@@ -1,2 +1,1 @@
-# mini-fantasy
-it hasn't been finished yet
+•	The mini fantasy league project:-  implemented in Java, effectively applies both Object-Oriented Programming (OOP) principles and data structures. Through well-organized classes like League, NewUser, Performance, Player, SignedUser, Team, and User, it demonstrates a robust implementation of OOP. Additionally, the project likely utilizes data structures to efficiently handle user registration, team creation, and the dynamic aspects of a fantasy sports league, showcasing a comprehensive understanding of both OOP and data structures.
