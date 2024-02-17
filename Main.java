@@ -13,7 +13,7 @@ public class Main {
       }
     public static void main(String[] args) {
 
-  /*      int n;
+  int n;
         System.out.println(league.getPlayers().size());
         System.out.println("DO you want sign:1 in or register:2");
         Scanner input = new Scanner(System.in);
@@ -45,7 +45,7 @@ public class Main {
 
     }
 
-   */
+   
         League l=new League();
         NewUser u=new NewUser();
         NewUser u1=new NewUser();
